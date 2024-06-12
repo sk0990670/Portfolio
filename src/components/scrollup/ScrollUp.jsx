@@ -10,8 +10,8 @@ const ScrollUp = () => {
     });
   
     return (
-    <a href="#" className="scrollup"><HiOutlineArrowSmUp className="scrollup__icon"/></a>
-  );
+        <a href="#top" className="scrollup"><HiOutlineArrowSmUp className="scrollup__icon"/></a>
+    );
 }
 
 export default ScrollUp;
