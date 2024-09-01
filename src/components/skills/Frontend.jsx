@@ -24,7 +24,7 @@ const Frontend = () => {
                     <div className="skills__data">
                         <HiCheckBadge />
                         <div>
-                            <h3 className="skills__name">Bootstrap</h3>
+                            <h3 className="skills__name">Tailwind CSS</h3>
                             <span className="skills__level">Intermediate</span>
                         </div>
                     </div>
@@ -47,7 +47,7 @@ const Frontend = () => {
                     <div className="skills__data">
                         <HiCheckBadge />
                         <div>
-                            <h3 className="skills__name">Typescript</h3>
+                            <h3 className="skills__name">Redux</h3>
                             <span className="skills__level">Basic</span>
                         </div>
                     </div>
